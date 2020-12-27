@@ -4,7 +4,7 @@ App project for Udacity Android Developer Nanodegree course <br>
 
 ## Overview
 * An app to view baking recipes
-* JSON file url provided as source of data 
+* Fetch JSON file from the network for the recipes data 
 * ExoPlayer to display steps videos
 * Reuse fragments to create a responsive design that works on different phones and tablets.
 * Application has a companion homescreen widget listing recipe ingriednent
