@@ -27,7 +27,7 @@ App project for Udacity Android Developer Nanodegree course <br>
   <p> 
         <img id="myImage" src=  
 "https://media.geeksforgeeks.org/wp-content/uploads/gfg-40.png"
-            alt="Submit" vspace = "60" width="42" height="42"
+            alt="Submit" width="42" height="42"
             align="middle"/> 
         It is a computer science portal for geeks 
     </p> 
