@@ -7,9 +7,8 @@ App project for Udacity Android Developer Nanodegree course <br>
 * Fetch JSON file from the network for the recipes data 
 * ExoPlayer to display steps videos
 * Reuse fragments to create a responsive design that works on different phones and tablets.
-* Application has a companion homescreen widget listing recipe ingriednent
+* Application has a companion home screen widget listing recipe ingredients
 * Espresso to verify UI workflows.
-
 
 
 <br>
