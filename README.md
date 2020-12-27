@@ -16,8 +16,8 @@ App project for Udacity Android Developer Nanodegree course <br>
 <p>
 <img hspace="10" src="s1.png" width="300px"/> 
 <img hspace="10" src="s2.png" width="300px"/> 
-<img hspace="10" src="s3.png" width="300px"/> 
 <img hspace="10" src="s4.png" width="300px"/>
+<img hspace="10" src="s3.png" width="300px"/> 
 <p> 
 <img hspace="10" src="s5.png" width="620px"/>
 <p>
