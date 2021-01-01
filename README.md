@@ -1,6 +1,6 @@
 # Bake_it
 
-App project for Udacity Android Developer Nanodegree course <br>
+Android App project for Udacity Android Developer Nanodegree course <br>
 
 ## Overview
 * An app to view baking recipes
